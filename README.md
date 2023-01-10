@@ -13,10 +13,10 @@ Crafting only takes 1 iron ingot, and 1 stick.<br>
 ![Key Recipe](https://cdn.upload.systems/uploads/nhv8sooY.png)
 
 ### Locking a container
-To lock a container, simply hold the key, look at the container, and execute '/addlock'; this will add a lock to the container, provided ~~you didn't somehow mess something up~~ no errors.
+To lock a container, simply hold the key, look at the container, and execute '/addlock'; adding a lock to the container, provided ~~you didn't somehow mess something up~~ no errors.
 
 ### Creating spare keys
-Creating a spare key follows similar steps to creating a regular key, with one key difference; the use of '/setspare' rather than '/addlock', creating a substitute key for you to use a backup or to give to a teammate! And, you may be wondering, "hmm Astrid, is there a key limit?". No.
+Creating a spare key follows similar steps to creating a regular key, with one key difference; the use of '/setspare' over '/addlock', creating a substitute key for you to use a backup or to give to a teammate! And, you may be wondering, "hmm Astrid, is there a key limit?". No.
 
 ## Download
 
