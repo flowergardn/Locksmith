@@ -1,0 +1,13 @@
+name: Locksmith
+version: "1.0.0-beta"
+main: sh.astrid.locksmith.Locksmith
+api-version: 1.19
+commands:
+  addlock:
+    description: Adds a lock to a container
+  removelock:
+    description: Removes a lock from a container
+  wipe:
+    description: Wipes all of the Locksmith data for this server
+  setspare:
+    description: Adds a spare key to a lock
