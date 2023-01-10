@@ -24,8 +24,8 @@ The latest version of Locksmith cam be found and downloded at the [Releases](htt
 
 ## Credits
 
-This project would not be possible without the help of two particular people.
+This project would not be possible without the help of two particular people, along with an honourable mention.
 
 - [@SantioMC](https://github.com/SantioMC/) | Helped me a lot with some bugs.
 - [@honkling](https://github.com/honkling/) | Helped teach me the basics of SQL.
-- [@uwuaroze](htpps://github.com/UwUAroze) | Gave me fancier sentences for the readme and I stole her favourite colour palette.
+- [@uwuaroze](https://github.com/UwUAroze/) | Gave me fancier sentences for my readme and I stole her favourite colour palette.
