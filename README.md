@@ -21,3 +21,10 @@ In Locksmith, you can also create spare keys. These can serve as either backups,
 ## Download
 
 You can download the latest version of Locksmith at the [Releases](https://github.com/astridlol/Locksmith/releases) page
+
+## Credits
+
+This project would not be possible without the help of two particular people.
+
+- [@SantioMC](https://github.com/SantioMC/) | Helped me a lot with some bugs.
+- [@honkling](https://github.com/honkling/) | Helped teach me the basics of SQL.
