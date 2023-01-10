@@ -9,18 +9,18 @@
 ## How to use
 
 ### Crafting a key
-Crafting only takes 1 iron ingot, and 1 stick.
+Crafting only takes 1 iron ingot, and 1 stick.<br>
 ![Key Recipe](https://cdn.upload.systems/uploads/nhv8sooY.png)
 
 ### Locking a container
-In order to lock a container, it's simple. Hold the key, look at a container, and execute `/addlock`. This will add a lock to the container (if no errors occur)
+To lock a container, simply hold the key, look at the container, and execute '/addlock'; this will add a lock to the container, provided ~~you didn't somehow mess something up~~ no errors.
 
 ### Creating spare keys
-In Locksmith, you can also create spare keys. These can serve as either backups, or can be given to teammates! Just create a key like regular, but, instead of using `/addlock`, use `/setspare`. You can add an infinite amount of spare keys to a locked container.
+Creating a spare key follows similar steps to creating a regular key, with one key difference; the use of '/setspare' rather than '/addlock', creating a substitute key for you to use a backup or to give to a teammate! And, you may be wondering, "hmm Astrid, is there a key limit?". No.
 
 ## Download
 
-You can download the latest version of Locksmith at the [Releases](https://github.com/astridlol/Locksmith/releases) page
+The latest version of Locksmith cam be found and downloded at the [Releases](https://github.com/astridlol/Locksmith/releases) page
 
 ## Credits
 
@@ -28,3 +28,4 @@ This project would not be possible without the help of two particular people.
 
 - [@SantioMC](https://github.com/SantioMC/) | Helped me a lot with some bugs.
 - [@honkling](https://github.com/honkling/) | Helped teach me the basics of SQL.
+- [@uwuaroze](htpps://github.com/UwUAroze) | Gave me fancier sentences for the readme and I stole her favourite colour palette.
